@@ -41,7 +41,7 @@ export default function Footer() {
           <FaLinkedin className="drop-shadow-lg" />
         </a>
         <a
-          href="manikkori697@gmail.com"
+          href="mailto:manikkori697@gmail.com"
 
           
           className="hover:text-red-400 transition-transform transform hover:scale-125"

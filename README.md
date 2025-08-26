@@ -4,7 +4,7 @@ Wonders Of World is a React project designed to make exploring and learning abou
 
 ## 🌐 Live Project
 
-Check out the live project 👉 [Wonders Of World](https://wonders-of-the-world-project.netlify.app/)
+Check out the live project 👉 [Wonders Of World](https://wonders-world.vercel.app/)
 
 ## 🚀 Features
 
@@ -79,38 +79,4 @@ Wonders_Of_World/
 └── README.md              # Project documentation
 ```
 
-## ⚙️ Installation and Setup
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Angshu09/Wonders_Of_World.git
-   ```
-
-2. **Navigate to the Project Directory**
-   ```bash
-   cd Wonders_Of_World
-   ```
-
-3. **Install Dependencies**
-   ```bash
-   npm install
-   ```
-
-4. **Start the Development Server**
-   ```bash
-   npm run dev
-   ```
-
-5. Open your browser and navigate to `http://localhost:5173/` to explore Wonders Of World.
- 
-## 📸 Screenshots
-
-### Home Page
-![Home Page](src/assets/screenshots/homepage.png)
-
-### Country Details Page
-![Country Details](src/assets/screenshots/country-details.png)
-
----
-
-Developed with ❤️ by **Angshu Das**.
